@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ni+lzWzn+a/bG7MvHmyjpWH5L1p3VNuwwHTrxufwqFwvc0AL4WYBLLlQghxaVGi1Xe0EZ+Iz03v0BL86jh1cGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Nested Loops\\P04-Building\\P04-Building.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

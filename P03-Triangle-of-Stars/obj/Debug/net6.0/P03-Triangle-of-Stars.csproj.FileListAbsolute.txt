@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\bin\Debug\net6.0\P03-Triangle-of-Stars.exe
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\bin\Debug\net6.0\P03-Triangle-of-Stars.deps.json
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\bin\Debug\net6.0\P03-Triangle-of-Stars.runtimeconfig.json
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\bin\Debug\net6.0\P03-Triangle-of-Stars.dll
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\bin\Debug\net6.0\P03-Triangle-of-Stars.pdb
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\P03-Triangle-of-Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\P03-Triangle-of-Stars.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\P03-Triangle-of-Stars.AssemblyInfo.cs
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\P03-Triangle-of-Stars.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\P03-Triangle-of-Stars.dll
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\refint\P03-Triangle-of-Stars.dll
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\P03-Triangle-of-Stars.pdb
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\P03-Triangle-of-Stars.genruntimeconfig.cache
+C:\Users\PC\source\repos\Nested Loops\P03-Triangle-of-Stars\obj\Debug\net6.0\ref\P03-Triangle-of-Stars.dll

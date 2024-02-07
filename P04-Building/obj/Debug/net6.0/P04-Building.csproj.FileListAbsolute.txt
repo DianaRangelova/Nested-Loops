@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Nested Loops\P04-Building\bin\Debug\net6.0\P04-Building.exe
+C:\Users\PC\source\repos\Nested Loops\P04-Building\bin\Debug\net6.0\P04-Building.deps.json
+C:\Users\PC\source\repos\Nested Loops\P04-Building\bin\Debug\net6.0\P04-Building.runtimeconfig.json
+C:\Users\PC\source\repos\Nested Loops\P04-Building\bin\Debug\net6.0\P04-Building.dll
+C:\Users\PC\source\repos\Nested Loops\P04-Building\bin\Debug\net6.0\P04-Building.pdb
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\P04-Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\P04-Building.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\P04-Building.AssemblyInfo.cs
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\P04-Building.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\P04-Building.dll
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\refint\P04-Building.dll
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\P04-Building.pdb
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\P04-Building.genruntimeconfig.cache
+C:\Users\PC\source\repos\Nested Loops\P04-Building\obj\Debug\net6.0\ref\P04-Building.dll

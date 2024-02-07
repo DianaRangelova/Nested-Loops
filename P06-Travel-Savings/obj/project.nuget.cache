@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z8AGRu4xYmC0Wmkbn6IwRd8kWlrQ0NXMxn6xUBkKyv1ir4L9a872yOf6MnXUU9F601q6cLDq3NHyFiZ9SWz35Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\Nested Loops\\P06-Travel-Savings\\P06-Travel-Savings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
